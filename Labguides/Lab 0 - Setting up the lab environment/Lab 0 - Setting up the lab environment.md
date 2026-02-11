@@ -48,7 +48,7 @@ and create a team in Microsoft Teams.
 
      ![A screenshot of a computer AI-generated content may be incorrect.](./media/image9.png)
 
-## **Exercise 2: Create a team in Microsoft Teams **
+## **Exercise 2: Create a team in Microsoft Teams**
 
 ### **Task 1: Create a team in Microsoft Teams**
 
@@ -538,4 +538,5 @@ and create a team in Microsoft Teams.
 
 **Summary**: In this lab, you acquired a Power Apps trial license and
 created a team in Microsoft Teams.
+
 
