@@ -102,8 +102,7 @@ Real Estate solution and is used to schedule showings.
 
      ![](./media/image19.png)
 
-17. Search for and select the +++**Showing**+++ table. Select **Add to
-    agent**.
+17. Search for and select the !!Showing!! table. Select **Add to agent**.
 
      ![](./media/image20.png)
 
@@ -342,4 +341,5 @@ Real Estate solution and is used to schedule showings.
     provided some information.
 
      ![](./media/image51.png)
+
 
