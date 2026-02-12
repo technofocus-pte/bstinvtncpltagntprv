@@ -51,41 +51,41 @@ Real Estate solution and is used to schedule showings.
 
      ![image](./media/image8.png)
 
-     Navigate back to the Copilot Studio tab and open !!https://copilotstudio.microsoft.com/environments/< EnvironmentID          >/home)!! (Replacing **< EnvironmentID >** with the value fetched above)
+     Navigate back to the Copilot Studio tab and open !!https://copilotstudio.microsoft.com/environments/< EnvironmentID >/home)!! (Replacing **< EnvironmentID >** with the value fetched above)
 
      ![](./media/image9.png)
 
-7.  On the **Welcome to Copilot Studio** pop-up, select **Skip.**
+8.  On the **Welcome to Copilot Studio** pop-up, select **Skip.**
 
      ![A screenshot of a computer AI-generated content may be incorrect.](./media/image10.png)
 
-8.  On the **Home** page, select **Agents** from the left navigation
+9.  On the **Home** page, select **Agents** from the left navigation
     pane.
 
      ![](./media/image11.png)
 
-9.  Select **+Create blank agent**.
+10.  Select **+Create blank agent**.
 
      ![](./media/image12.png)
 
-10. Wait till you see the message as **Your agent has been
+11. Wait till you see the message as **Your agent has been
     provisioned**.
 
      ![](./media/image13.png)
 
-11. In the **Details** section, select **Edit**.
+12. In the **Details** section, select **Edit**.
 
      ![](./media/image14.png)
 
-12. Name your agent as !!Real Estate Booking Service!!. Select **Save**.
+13. Name your agent as !!Real Estate Booking Service!!. Select **Save**.
 
      ![](./media/image15.png)
 
-13. In the **Instruction** section, select **Edit**.
+14. In the **Instruction** section, select **Edit**.
 
      ![](./media/image16.png)
 
-14. Enter the given information under the Instructions field and then
+15. Enter the given information under the Instructions field and then
     select **Save**.
 
      !!Use a friendly yet professional tone.!!
@@ -94,15 +94,15 @@ Real Estate solution and is used to schedule showings.
     
      ![](./media/image17.png)
 
-15. Select **+Add knowledge**.
+16. Select **+Add knowledge**.
 
      ![](./media/image18.png)
 
-16. Select **Dataverse**.
+17. Select **Dataverse**.
 
      ![](./media/image19.png)
 
-17. Search for and select the !!Showing!! table. Select **Add to agent**.
+18. Search for and select the !!Showing!! table. Select **Add to agent**.
 
      ![](./media/image20.png)
 
@@ -341,5 +341,6 @@ Real Estate solution and is used to schedule showings.
     provided some information.
 
      ![](./media/image51.png)
+
 
 
