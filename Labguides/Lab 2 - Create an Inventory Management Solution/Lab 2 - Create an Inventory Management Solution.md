@@ -224,9 +224,9 @@ inventory restocking using an approval-based workflow.
 
     !!Hi Sir,!!
     
-     < Candy(Type) > !!is out of stock - for customers to place an order. Please approve to restock.!!
+    < Candy(Type) > !!is out of stock - for customers to place an order. Please approve to restock.!!
     
-     !!Thanks!!
+    !!Thanks!!
     
      ![A screenshot of a computer AI-generated content may be incorrect.](./media/image43.png)
 
@@ -403,5 +403,6 @@ inventory restocking using an approval-based workflow.
     process when stock levels fall below the defined reorder point. The flow
     sends an approval request, updates inventory quantities upon approval,
     and ensures proper automation using Dataverse triggers and conditions.
+
 
 
