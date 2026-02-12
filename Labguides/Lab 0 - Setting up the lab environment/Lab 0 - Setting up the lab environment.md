@@ -254,16 +254,16 @@ and create a team in Microsoft Teams.
 
 ### **Task 1: Assign Field Service trial license**
 
-1.  Navigate to the **Field Service product page** using the given link !!https://www.microsoft.com/en-us/dynamics-              365/products/field-service!! and select the **Try for free** button.
+1.  Navigate to the **Field Service product page** using the given link !!https://www.microsoft.com/en-us/dynamics-        365/products/field-service!! and select the **Try for free** button.
 
      ![](./media/image46.png)
 
-2.  Enter your **Office 365 admin tenant username**, select the checkbox
+3.  Enter your **Office 365 admin tenant username**, select the checkbox
     for service agreement and then select **Start your free trial**.
 
      ![](./media/image47.png)
 
-3.  Provide **Contact Information** as below and then select **Submit**.
+4.  Provide **Contact Information** as below and then select **Submit**.
 
     - **Job title**: Your job title
 
@@ -273,15 +273,15 @@ and create a team in Microsoft Teams.
 
      ![](./media/image48.png)
 
-4.  If Pop-up regarding **Whats new** appears, **close** it.
+5.  If Pop-up regarding **Whats new** appears, **close** it.
 
      ![](./media/image49.png)
 
-5.  You will be navigated to the **Dynamics 365 Field Service portal**.
+6.  You will be navigated to the **Dynamics 365 Field Service portal**.
 
      ![](./media/image50.png)
 
-6.  Go to **Power Platform admin center** by navigating
+7.  Go to **Power Platform admin center** by navigating
     to !!https://admin.powerplatform.microsoft.com/!! and
     if required, sign in using your given **Office 365 tenant
     admin** credentials. From left navigation pane, click
@@ -538,5 +538,6 @@ and create a team in Microsoft Teams.
 
 **Summary**: In this lab, you acquired a Power Apps trial license and
 created a team in Microsoft Teams.
+
 
 
