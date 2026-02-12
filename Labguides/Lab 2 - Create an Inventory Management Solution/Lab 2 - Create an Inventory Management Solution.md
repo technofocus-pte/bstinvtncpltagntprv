@@ -117,7 +117,7 @@ inventory restocking using an approval-based workflow.
 2.  Copy the following prompt and paste it in the Copilot field, and
     then select **Generate**.
 
-     **Prompt:** !!Create a candy restock flow when a row is added or modified in the Dataverse table. Add a condition to             check if the quantity is less than the reorder points. If it is less then take an approval to update the row!!
+     **Prompt:** !!Create a candy restock flow when a row is added or modified in the Dataverse table. Add a condition to  check if the quantity is less than the reorder points. If it is less then take an approval to update the row!!
     
      ![](./media/image22.png)
 
@@ -224,8 +224,7 @@ inventory restocking using an approval-based workflow.
 
     !!Hi Sir,!!
     
-     < Candy(Type) > !!is out of stock - for customers to place an order.
-     Please approve to restock.!!
+     < Candy(Type) > !!is out of stock - for customers to place an order. Please approve to restock.!!
     
      !!Thanks!!
     
@@ -404,4 +403,5 @@ inventory restocking using an approval-based workflow.
     process when stock levels fall below the defined reorder point. The flow
     sends an approval request, updates inventory quantities upon approval,
     and ensures proper automation using Dataverse triggers and conditions.
+
 
