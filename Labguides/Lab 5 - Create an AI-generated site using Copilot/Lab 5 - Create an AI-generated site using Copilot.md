@@ -113,11 +113,7 @@ content to these pages using Copilot.
 
      ![](./media/image17.png)
 
-5.  In the text box under Describe a form to create it, describe your
-    form. You can use up to 250 characters in your description. To send
-    your description to Copilot, press the Enter key or select the paper
-    airplane icon in the lower-right corner of the text box.
-
+5.  In the text box under Describe a form to create it, describe your form. You can use up to 250 characters in your             description. To send your description to Copilot, press the Enter key or select the paper airplane icon in the lower         right corner of the text box.
     **Example**: !!Create a form to collect suggestions and requests for additions or deletions to a financial advisor’s
     areas of expertise.!!
     
@@ -152,12 +148,11 @@ content to these pages using Copilot.
      ![](./media/image24.png)
 
 5.  Describe the text that you want Copilot to generate; for example, !!I want to describe the importance of a financial
-    advisor!!.
-    You can use up to 1,500 characters in your description. To send your description to Copilot, press the Enter key or          select the paper airplane icon in the lower-right corner of the text box.
+    advisor!!. You can use up to 1,500 characters in your description. To send your description to Copilot, press the Enter      key or select the paper airplane icon in the lower-right corner of the text box.
 
      ![](./media/image25.png)
 
-6.  Check the **preview** below your description and refine the text as
+7.  Check the **preview** below your description and refine the text as
     needed.
 
     - To refine your description and generate new text,
@@ -179,11 +174,11 @@ content to these pages using Copilot.
 
      ![](./media/image26.png)
 
-7.  To add the text to the page, select **Add to page**.
+8.  To add the text to the page, select **Add to page**.
 
      ![](./media/image27.png)
 
-8.  You can see that Copilot has added text to the page.
+9.  You can see that Copilot has added text to the page.
 
      ![](./media/image28.png)
 
@@ -244,6 +239,7 @@ of Copilot, how Copilot generates the HTML for the page with relevant
 text copy and images from the description. Create a form and add
 AI-generated text to the page. You also learnt how Copilot generates
 text and creates a form based on the given description.
+
 
 
 
