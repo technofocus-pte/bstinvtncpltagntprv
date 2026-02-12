@@ -172,7 +172,7 @@
 
 > ![](./media/image34.png)
 
-10. Set the value 100.
+10. Set the value **100**. Select **Save & Close**.
 
 > ![](./media/image35.png)
 
@@ -274,4 +274,5 @@
 13. Review the suggested schedule.
 
 > ![](./media/image52.png)
+
 
