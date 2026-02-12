@@ -113,9 +113,7 @@ content to these pages using Copilot.
 
      ![](./media/image17.png)
 
-5.  In the text box under Describe a form to create it, describe your form. You can use up to 250 characters in your             description. To send your description to Copilot, press the Enter key or select the paper airplane icon in the lower         right corner of the text box.
-    **Example**: !!Create a form to collect suggestions and requests for additions or deletions to a financial advisor’s
-    areas of expertise.!!
+5.  In the text box under Describe a form to create it, describe your form. You can use up to 250 characters in your description. To send your description to Copilot, press the Enter key or select the paper airplane icon in the lower         right corner of the text box. **Example**: !!Create a form to collect suggestions and requests for additions or deletions to a financial advisor’s areas of expertise.!!
     
      ![](./media/image18.png)
 
@@ -239,6 +237,7 @@ of Copilot, how Copilot generates the HTML for the page with relevant
 text copy and images from the description. Create a form and add
 AI-generated text to the page. You also learnt how Copilot generates
 text and creates a form based on the given description.
+
 
 
 
