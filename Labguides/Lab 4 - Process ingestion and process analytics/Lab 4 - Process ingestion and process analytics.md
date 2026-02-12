@@ -17,7 +17,7 @@
     Dataflow, enter a !!Process contact!! as the Process name for your
     process name, and then select **Continue**.
 
- ![A screenshot of a computer AI-generated content may be incorrect.](./media/image3.png)
+     ![A screenshot of a computer AI-generated content may be incorrect.](./media/image3.png)
 
 7.  If you are asked to **choose where to export**, then select **Power
     BI embedded** from the **Choose your destination** drop-down and
@@ -115,4 +115,5 @@
     selecting subsequent suggestions. Alternatively, you can ask your
     own questions at any time using the text field in the bottom part of
     the Copilot pane.
+
 
