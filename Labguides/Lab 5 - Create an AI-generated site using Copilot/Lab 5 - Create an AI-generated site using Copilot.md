@@ -23,10 +23,9 @@ and add AI-generated text to the page.
 4.  Enter the given description to create a site and then click on the
     **generate** icon.
 
-     !!Create a site for customers to find financial advisors at a bank based on their qualifications, and areas of
-    expertise!!
+        !!Create a site for customers to find financial advisors at a bank based on their qualifications, and areas of expertise!!
 
-     ![](./media/image4.png)
+      ![](./media/image4.png)
 
 5.  Copilot generates a site name and a web address based on your
     description. In this case, the site name is ‘**Advisor Connect’**.
@@ -246,4 +245,5 @@ of Copilot, how Copilot generates the HTML for the page with relevant
 text copy and images from the description. Create a form and add
 AI-generated text to the page. You also learnt how Copilot generates
 text and creates a form based on the given description.
+
 
