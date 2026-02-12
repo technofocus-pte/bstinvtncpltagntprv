@@ -254,7 +254,8 @@ and create a team in Microsoft Teams.
 
 ### **Task 1: Assign Field Service trial license**
 
-1.  Navigate to the **Field Service product page** using the given link !!https://www.microsoft.com/en-us/dynamics-        365/products/field-service!! and select the **Try for free** button.
+1.  Navigate to the **Field Service product page** using the given link
+    !!https://www.microsoft.com/en-us/dynamics-365/products/field-service!! and select the **Try for free** button.
 
      ![](./media/image46.png)
 
@@ -538,6 +539,7 @@ and create a team in Microsoft Teams.
 
 **Summary**: In this lab, you acquired a Power Apps trial license and
 created a team in Microsoft Teams.
+
 
 
 
