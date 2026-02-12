@@ -22,18 +22,17 @@ and add AI-generated text to the page.
 
 4.  Enter the given description to create a site and then click on the
     **generate** icon.
-
-        !!Create a site for customers to find financial advisors at a bank based on their qualifications, and areas of expertise!!
+    **Prompt**: !!Create a site for customers to find financial advisors at a bank based on their qualifications, and areas      of expertise!!
 
       ![](./media/image4.png)
 
-5.  Copilot generates a site name and a web address based on your
+6.  Copilot generates a site name and a web address based on your
     description. In this case, the site name is ‘**Advisor Connect’**.
     Keep the generated site name and address, and then select **Next**.
 
      ![](./media/image5.png)
 
-6.  Copilot generates a home page layout, which you can scroll through
+7.  Copilot generates a home page layout, which you can scroll through
     and browse the page generated. Select **Next** to accept the
     suggested layout.
 
@@ -41,7 +40,7 @@ and add AI-generated text to the page.
 
      ![](./media/image6.png)
 
-7.  Copilot generates more pages that could be used in the site based on
+8.  Copilot generates more pages that could be used in the site based on
     the description. In this example, Contact us, Advisor search,
     Advisor profile, and Advisor contact pages are selected, and then
     select **Done** to complete the site creation.
@@ -51,13 +50,13 @@ and add AI-generated text to the page.
     
      ![](./media/image7.png)
 
-8.  Site creation can take a few minutes. When finished, you're
+9.  Site creation can take a few minutes. When finished, you're
     redirected to the site opened in the design studio that you can
     customize further. Select **Try** **later**.
 
      ![](./media/image8.png)
 
-9.  The site has been created now.
+10.  The site has been created now.
 
      ![A screenshot of a computer Description automatically generated](./media/image9.png)
 
@@ -119,7 +118,7 @@ content to these pages using Copilot.
     your description to Copilot, press the Enter key or select the paper
     airplane icon in the lower-right corner of the text box.
 
-     **Example**: !!Create a form to collect suggestions and requests for additions or deletions to a financial advisor’s
+    **Example**: !!Create a form to collect suggestions and requests for additions or deletions to a financial advisor’s
     areas of expertise.!!
     
      ![](./media/image18.png)
@@ -245,5 +244,6 @@ of Copilot, how Copilot generates the HTML for the page with relevant
 text copy and images from the description. Create a form and add
 AI-generated text to the page. You also learnt how Copilot generates
 text and creates a form based on the given description.
+
 
 
