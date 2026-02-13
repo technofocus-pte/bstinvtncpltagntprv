@@ -1,4 +1,4 @@
-# **Lab 2 - Create an Inventory Management Solution with Automated Restocking flow**
+# **Lab 2: Create an Inventory Management Solution with Automated Restocking flow**
 
 **Objective:** In this lab, you will learn to use Copilot in Microsoft
 Power Apps and Power Automate to design and implement an end-to-end
@@ -403,6 +403,7 @@ inventory restocking using an approval-based workflow.
     process when stock levels fall below the defined reorder point. The flow
     sends an approval request, updates inventory quantities upon approval,
     and ensures proper automation using Dataverse triggers and conditions.
+
 
 
 
