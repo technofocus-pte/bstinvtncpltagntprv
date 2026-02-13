@@ -49,12 +49,11 @@
 
 ### **Task 1: Configuring and using Copilot and AI capabilities**
 
-1.  In Business Central, select the **Search icon** at the top right, then search for and open the !!Copilot & agent
-    Capabilities!! page.
+1.  In Business Central, select the **Search icon** at the top right, then search for and open the !!Copilot & agent    Capabilities!! page.
 
      ![](./media/image11.png)
 
-2.  The page lists all available Copilot and AI-related features and
+3.  The page lists all available Copilot and AI-related features and
     their current status, which can be either active or inactive. The
     features are divided into two sections---one section for features in
     preview and another for features that are generally available.
@@ -185,4 +184,5 @@ text.
     save or discard as you like.
 
      ![](./media/image34.png)
+
 
