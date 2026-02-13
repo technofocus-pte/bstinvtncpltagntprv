@@ -167,11 +167,7 @@ and create a team in Microsoft Teams.
 2.  Enter your **Office 365 admin tenant credentials**, select the
     checkbox to **accept the agreement** and click on **Start your free
     trial**.
-
-     [***admin@M365xXXXXXX.onmicrosoft.com***](urn:gd:lg:a:send-vm-keys)
-    
-     [***MyAdminPassword***](urn:gd:lg:a:send-vm-keys)
-    
+  
      ![](./media/image32.png)
 
 3.  Provide **Contact Information** as below and then select **Submit**.
@@ -441,10 +437,6 @@ and create a team in Microsoft Teams.
 
 2.  Enter your **Office 365 admin credentials**, check the checkbox
     to **accept the agreement** and click on **Start your free trial**.
-
-     [**admin@M365xXXXXXX.onmicrosoft.com**](urn:gd:lg:a:send-vm-keys)
-     
-     [**MyAdminPassword**](urn:gd:lg:a:send-vm-keys)
     
     ![](./media/image79.png)
 
@@ -453,21 +445,21 @@ and create a team in Microsoft Teams.
 
      ![](./media/image80.png)
 
-6.  Choose **Start Customer Insights - Data.**
+4.  Choose **Start Customer Insights - Data.**
 
      ![](./media/image81.png)
 
-7.  Select **United States** for the **Country/region** field and then
+5.  Select **United States** for the **Country/region** field and then
     select **Continue**.
 
      ![](./media/image82.png)
 
-8.  Close the **Couldn’t load tables** notification from the right
+6.  Close the **Couldn’t load tables** notification from the right
     corner of the screen.
 
      ![](./media/image83.png)
 
-9.  Select **Start trial** from the top right corner. If you get an
+7.  Select **Start trial** from the top right corner. If you get an
     error message as ‘**Couldn’t create environment**’, then follow the
     steps (a to f) given below and then continue with Step 9.
 
@@ -497,27 +489,27 @@ and create a team in Microsoft Teams.
 
      ![Screenshot](./media/image90.png)
 
-10. You can see that the **Marketing Trial** environment is getting created for you and now you can directly go to step no       14. In case the environment is not created and asking for **Basic information,** then enter !!Marketing Trial!! in           the **Name** field, select **United States** for the **Region** field, and then select **Next**.
+8. You can see that the **Marketing Trial** environment is getting created for you and now you can directly go to step no       13. In case the environment is not created and asking for **Basic information,** then enter !!Marketing Trial!! in           the **Name** field, select **United States** for the **Region** field, and then select **Next**.
 
      ![Screenshot](./media/image91.png)
 
-11. Select **Next** on the **Data storage** page.
+9. Select **Next** on the **Data storage** page.
 
      ![Screenshot](./media/image92.png)
 
-12. Select your **Dataverse environment** and then click **Next**.
+10. Select your **Dataverse environment** and then click **Next**.
 
      ![Screenshot](./media/image93.png)
 
-13. Review the information on the **Review** page and then select **Create**.
+11. Review the information on the **Review** page and then select **Create**.
 
      ![Screenshot](./media/image94.png)
 
-14. It may take some time to create your environment.
+12. It may take some time to create your environment.
 
      ![](./media/image95.png)
 
-15. You can now see that your environment is named  **Marketing Trial**.
+13. You can now see that your environment is named  **Marketing Trial**.
 
      ![](./media/image96.png)
 
@@ -595,6 +587,7 @@ To install Finance agents in Microsoft 365 Outlook from the Microsoft
 
 **Summary**: In this lab, you acquired a Power Apps trial license and
 created a team in Microsoft Teams.
+
 
 
 
