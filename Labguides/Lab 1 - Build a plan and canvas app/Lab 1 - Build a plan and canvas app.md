@@ -6,6 +6,8 @@ that defines business requirements, processes, data tables, and
 technology components, and then generate a canvas app that surfaces and
 manages real estate showings.
 
+**Note**: This lab includes steps to create a plan which is a Copilot first development tool. Your results may be similar but not identical, as Copilot’s outputs can vary. In that case, use this lab as a reference or guideline. For example, if this lab works with a step called “Showing table” but your generated plan does not include that exact item, look for a similar step or equivalent action.
+
 ## **Exercise 1: Create a plan**
 
 1.  Sign in to Power Apps at !!https://make.powerapps.com/!! with your
@@ -240,4 +242,5 @@ manages real estate showings.
      generated data model, including validating and updating table columns
      such as the Status choice field in the Showing table and created a
      **canvas app** directly from the generated plan.
+
 
