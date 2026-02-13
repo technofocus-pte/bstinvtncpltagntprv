@@ -2,60 +2,7 @@
 
 ## **Exercise 1: Install Finance agents in Microsoft 365 Outlook from the Microsoft 365 admin center**
 
-To install Finance agents in Microsoft 365 Outlook from the Microsoft
-365 admin center, follow these steps.
-
-1.  Sign in to the Microsoft 365 admin center with the given
-    link !!https://admin.microsoft.com/!!.
-
-2.  In the left pane, select **Show all**.
-
-     ![](./media/image1.png)
-
-3.  Select **Settings** > **Integrated apps**.
-
-     ![](./media/image2.png)
-
-4.  On the **Integrated apps** page, select **Get apps**.
-
-     ![](./media/image3.png)
-
-5.  In the AppSource window, search for **Finance**.
-
-     ![](./media/image4.png)
-
-6.  In the search results, select **Finance (Preview) in Microsoft 365
-    Copilot - Outlook**, and then select **Get it now**.
-
-     ![](./media/image5.png)
-
-7.  Click on **Get it now** on the **Confirm to continue** window.
-
-     ![](./media/image6.png)
-
-8.  In the **Add users** step, select **Entire organization** under
-    **Assign users,** then select **Next**.
-
-     ![](./media/image7.png)
-
-9.  In the **Deployment (Permissions)** step, review the app permissions
-    and capabilities in connection with Copilot for Finance,
-    select **Accept permissions**.
-
-     ![](./media/image8.png)
-
-10. When you see that permissions are accepted, then select **Next**.
-
-     ![](./media/image9.png)
-
-11. In the **Deployment (Finish)** step, review the selected settings,
-    and then select **Finish deployment**.
-
-     ![](./media/image10.png)
-
-12. When the deployment is completed, select **Done**.
-
-     ![](./media/image11.png)
+You have alredy installed Finance agents in Microsoft 365 Outlook in the Lab 0 > Exercise 7.
 
 ## **Exercise 2: Generating email summary in Demo mode, viewing contact details and adding notes**
 
@@ -141,4 +88,5 @@ To install Finance agents in Microsoft 365 Outlook from the Microsoft
 
 18. You can save the note by selecting the customer that you want to
     associate the note with.
+
 
