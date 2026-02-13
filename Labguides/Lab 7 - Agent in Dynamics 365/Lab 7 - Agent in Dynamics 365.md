@@ -4,7 +4,7 @@
 
 ### **Task 1: Turn on the Scheduling Operations Agent**
 
-1.  Go to **Power Platform admin center** by navigating to !!https://admin.powerplatform.microsoft.com!! and if required, sign       in using your given **Office 365 admin tenant** credentials.
+1.  Go to **Power Platform admin center** by navigating to !!https://admin.powerplatform.microsoft.com!! and if required, sign in using your given **Office 365 admin tenant** credentials.
 
 2.  From the left navigation pane,
     select **Manage** > **Environment** and then click
@@ -190,7 +190,7 @@
 3.  In the **Scheduling** section, select **Work Orders**.
     Select **New**.
 
-> ![](./media/image39.png)
+     ![](./media/image39.png)
 
 4.  At a minimum, enter information in the following required fields and
     then select **Save & Close**.
@@ -266,6 +266,7 @@
 13. Review the suggested schedule.
 
      ![](./media/image52.png)
+
 
 
 
