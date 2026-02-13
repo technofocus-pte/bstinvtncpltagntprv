@@ -15,10 +15,7 @@ recently joined your program. To create a journey with Copilot,
 
    ![](./media/image2.png)
 
-4.  Enter !!Create a journey that will send a welcome email to all
-    customers that are part of the MySegment segment. After two days,
-    send them an exclusive offer email!!
-    And then select the **Send** icon.
+4.  Enter !!Create a journey that will send a welcome email to all customers that are part of the MySegment segment. After       two days, send them an exclusive offer email!!. And then select the **Send** icon.
 
     ![](./media/image3.png)
 
@@ -62,13 +59,9 @@ recently joined your program. To create a journey with Copilot,
    
     ![](./media/image12.png)
 
-13. Now again execute the New Journey creating step, enter the previous
-    prompt. It automatically detected the segment and each subsequent
-    step clearly.
+13. Now again execute the New Journey creating step, enter the previous prompt. It automatically detected the segment and        each subsequent step clearly.
 
-    !!Create a journey that will send a welcome email to all customers
-    that are part of the MySegment segment. After two days, send them an
-    exclusive offer email.!!
+    !!Create a journey that will send a welcome email to all customers that are part of the MySegment segment. After two days, send them an exclusive offer email.!!
    
     ![](./media/image13.png)
 
@@ -84,7 +77,7 @@ recently joined your program. To create a journey with Copilot,
 
     ![](./media/image15.png)
 
-16. Select MySegment step. Select the frequency as **one time journey
+16. Select **MySegment** step. Select the frequency as **one time journey
     with a static audience** and select the **future time** for the
     start time journey.
 
@@ -111,5 +104,6 @@ recently joined your program. To create a journey with Copilot,
     ![Screenshot](./media/image21.png)
    
     ![](./media/image22.png)
+
 
 
