@@ -1,7 +1,6 @@
 # **Lab 0: Setting up the lab environment**
 
-**Objective:** In this lab, you will acquire a Power Apps trial license
-and create a team in Microsoft Teams.
+**Objective:** In this lab, you will set up a complete trial environment required for working with Microsoft Power Platform and Dynamics 365 applications. You will sign up for trial licenses, configure environments, create a team in Microsoft Teams, enable Copilot capabilities across services, and install required add-ins to support learning activities throughout the course.
 
 ## **Exercise 1: Assign a Power Apps trial license**
 
@@ -585,8 +584,8 @@ To install Finance agents in Microsoft 365 Outlook from the Microsoft
 
      ![](./media/image111.png)
 
-**Summary**: In this lab, you acquired a Power Apps trial license and
-created a team in Microsoft Teams.
+**Summary**: In this lab, you prepared your environment by completing several foundational setup steps. You acquired trial licenses for Power Apps, Customer Service, Field Service, Sales, and Customer Insights – Data. You verified the creation of corresponding environments in the Power Platform admin center and enabled key Copilot features. You also created a team in Microsoft Teams, configured meeting and transcription policies, and installed the necessary Outlook add-ins to support Dynamics 365 apps. With these prerequisites in place, your environment is now ready for the hands-on exercises in the upcoming labs.
+
 
 
 
