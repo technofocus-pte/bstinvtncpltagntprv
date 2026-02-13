@@ -537,8 +537,65 @@ and create a team in Microsoft Teams.
 
      **Note**: It may take some time for the app to appear in the Customer Service - Data portal.
 
+## **Exercise 7: Install Finance agents in Microsoft 365 Outlook from the Microsoft 365 admin center**
+
+To install Finance agents in Microsoft 365 Outlook from the Microsoft
+365 admin center, follow these steps.
+
+1.  Sign in to the Microsoft 365 admin center with the given link !!https://admin.microsoft.com/!!.
+
+2.  In the left pane, select **Show all**.
+
+     ![](./media/image101.png)
+
+3.  Select **Settings** > **Integrated apps**.
+
+     ![](./media/image102.png)
+
+4.  On the **Integrated apps** page, select **Get apps**.
+
+     ![](./media/image103.png)
+
+5.  In the AppSource window, search for !!Finance!!.
+
+     ![](./media/image104.png)
+
+6.  In the search results, select **Finance (Preview) in Microsoft 365
+    Copilot - Outlook**, and then select **Get it now**.
+
+     ![](./media/image105.png)
+
+7.  Click on **Get it now** on the **Confirm to continue** window.
+
+     ![](./media/image106.png)
+
+8.  In the **Add users** step, select **Entire organization** under
+    **Assign users,** then select **Next**.
+
+     ![](./media/image107.png)
+
+9.  In the **Deployment (Permissions)** step, review the app permissions
+    and capabilities in connection with Copilot for Finance,
+    select **Accept permissions**.
+
+     ![](./media/image108.png)
+
+10. When you see that permissions are accepted, then select **Next**.
+
+     ![](./media/image109.png)
+
+11. In the **Deployment (Finish)** step, review the selected settings,
+    and then select **Finish deployment**.
+
+     ![](./media/image110.png)
+
+12. When the deployment is completed, select **Done**.
+
+     ![](./media/image111.png)
+
 **Summary**: In this lab, you acquired a Power Apps trial license and
 created a team in Microsoft Teams.
+
 
 
 
