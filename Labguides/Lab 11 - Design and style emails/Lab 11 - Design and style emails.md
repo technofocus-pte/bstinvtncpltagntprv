@@ -1,5 +1,7 @@
 # **Lab 11: Design and style emails with AI-assisted themes using Copilot in Customer Insights – Journeys**
 
+**Objective**: In this lab, you will learn how to design and style marketing emails using Copilot in Customer Insights – Journeys. You will learn how to enable Copilot features, use AI-generated content ideas to accelerate email creation, and apply theme customization tools to build branded email designs. You will also learn how to configure compliance elements, preview emails, and perform test sends to validate email styling and content before publishing.
+
 ## **Exercise 1: Enable Copilot**
 
 1.  Go to **Power Platform admin center** by navigating to !!https://admin.powerplatform.microsoft.com!! and
@@ -166,3 +168,4 @@
 
      ![](./media/image34.png)
 
+**Summary**: In this lab, you learned how to enable Copilot in Customer Insights – Journeys, generate AI-based content suggestions for email creation, and use the theme assistant to style and brand your email layout. You also configured sender details, added compliance and brand profile components, and performed preview/testing steps to validate the final email. 
