@@ -1,5 +1,7 @@
 # **Lab 13: Configure and use Copilot in Dynamics 365 Business Central**
 
+**Objective**: In this lab, you will learn how to configure and use Copilot capabilities in Dynamics 365 Business Central. You will learn how to activate Copilot features, generate AI-assisted item analyses, draft marketing text, summarize product information, and automate bank reconciliation using Copilot-driven matching suggestions. These tasks enhance productivity and streamline core Business Central processes.
+
 ## **Exercise 1: Signing up for the trial**
 
 1.  Go to !!https://dynamics.microsoft.com/en-us/dynamics-365-free-trial/!!, on the **Dynamics 365 Business Central** card,      choose the **Try for free** button.
@@ -185,4 +187,5 @@ text.
 
      ![](./media/image34.png)
 
+**Summary**: In this lab, you learned how to sign up for a Business Central trial, access and enable Copilot and AI features, and apply Copilot to various business workflows. You used AI to analyze item lists, generate and edit marketing text, produce item summaries, and assist with bank account reconciliation through automatically proposed matches.
 
