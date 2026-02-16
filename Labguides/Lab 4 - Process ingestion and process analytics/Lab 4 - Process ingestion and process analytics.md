@@ -1,5 +1,7 @@
 # **Lab 4: Process ingestion and process analytics with Copilot in Process Mining**
 
+**Objective**: In this lab, you will learn end to end process of ingesting data into Microsoft Process Mining in Power Automate and performing process analytics with AI-assisted insights. You will learn how to configure data ingestion from a CSV file, map process attributes, generate a process report, and leverage Copilot to summarize, explore, and analyze process behavior using natural language queries.
+
 ## **Exercise 1 - Process ingestion with Copilot in Process Mining**
 
 1.  Navigate to the **Power Automate** portal
@@ -116,4 +118,5 @@
     own questions at any time using the text field in the bottom part of
     the Copilot pane.
 
+**Summary**: In this lab, you learned how to ingest data into Process Mining using a CSV file, map essential process attributes, generate analytical views like Summary and Variant DNA, and use Copilot to quickly explore and understand your process through AI-driven insights.
 
