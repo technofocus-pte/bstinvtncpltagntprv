@@ -1,5 +1,7 @@
 # **Lab 10: Create segments with Copilot for Customer Insights – Data**
 
+**Objective**: In this lab, you will learn how to prepare and unify customer data in Customer Insights – Data, configure data types using Power Query, define primary keys and matching rules, and generate unified customer profiles. You will also learn how to use Copilot to create AI-assisted segmentation rules that automatically identify targeted customer groups based on behavioral and transactional data.
+
 ## **Exercise 1: Add your Data**
 
 1.  Access your **Customer Insights - Data** environment using the given
@@ -268,3 +270,4 @@
      it uses the shortest path by default. **Edit** the segment to change
      the relationship path.
 
+**Summary**: In this lab, you learned how to load and transform customer and transaction datasets, unify them using deduplication and matching rules, and create enriched customer profiles in Customer Insights – Data. You also created customer segments using Copilot, leveraging AI-generated rules to build a segment and applying those rules to generate insights-ready segments. 
