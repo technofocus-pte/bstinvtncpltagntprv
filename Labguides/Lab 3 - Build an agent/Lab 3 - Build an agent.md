@@ -1,8 +1,6 @@
 # **Lab 3: Build an agent in Microsoft Copilot Studio with the new AI capabilities**
 
-**Objective**: In this lab, you'll create an agent using Microsoft
-Copilot Studio with the new AI capabilities. This agent is part of the
-Real Estate solution and is used to schedule showings.
+**Objective**: In this lab, you will build an agent using Microsoft Copilot Studio as part of the Real Estate solution. You will configure the agent’s instructions, add Dataverse knowledge, generate topics using Copilot, customize the conversation flow, and test the agent. In this lab, you will learn how to use Copilot Studio to create intelligent, conversational experiences that interact with business data.
 
 ## **Exercise 1: Create an agent with the new AI capabilities**
 
@@ -342,5 +340,6 @@ Real Estate solution and is used to schedule showings.
 
      ![](./media/image51.png)
 
+**Summary**: In this lab, you created a functional conversational agent in Microsoft Copilot Studio. You have learnt to add a Dataverse table as a knowledge source, to use Copilot to automatically generate a topic for booking real estate showings, and to build an Adaptive Card summary using JSON and Power Fx. In this lab, you successfully built and validated an agent capable of handling real estate showing requests.
 
 
