@@ -1,5 +1,7 @@
 # **Lab 8: Compose emails, view email summary and opportunity summary in Outlook using Sales in Microsoft 365 Copilot**
 
+**Objective**: In this lab, you will learn how to use the Sales app in Outlook to enhance email productivity with Microsoft 365 Copilot. You will explore how Copilot analyzes email content to generate summaries, how to save these summaries to Dynamics 365 records, and how to use AI-assisted drafting tools - both predefined and custom prompts - to create professional email responses. You will also learn how Copilot surfaces opportunity insights directly within Outlook for a better sales context.
+
 ## **Exercise 1: Install and open the Sales app in Outlook**
 
 1.  In a new tab, open **Outlook** using the
@@ -304,3 +306,4 @@ email, or compose a new email.
 
      ![](./media/image48.png)
 
+**Summary**: In this lab, you learned how to install and open the Sales app in Outlook, generate AI-based email summaries, and save them to relevant Dynamics 365 records. You also used Copilot to draft replies using predefined categories and custom prompts, refine responses with tone and length adjustments, and view opportunity summaries linked to contacts. These capabilities demonstrate how Copilot integrates Outlook and Dynamics 365 to streamline sales communication and improve data-driven decision-making.
