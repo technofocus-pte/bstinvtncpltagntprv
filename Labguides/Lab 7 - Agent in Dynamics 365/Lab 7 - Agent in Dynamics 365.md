@@ -1,5 +1,7 @@
 # **Lab 7: Set up and use the Scheduling Operations Agent for Dynamics 365 Field Service**
 
+**Objective**: In this lab, you will learn how to configure and use the Scheduling Operations Agent (preview) in Dynamics 365 Field Service. You will set up scheduling parameters, configure bookable resources, define optimization methods, and assign priority values to ensure the agent can generate optimized schedules. You will also learn how to create work orders and use the scheduling board to trigger AI-driven scheduling suggestions.
+
 ## **Exercise 1: Set up the Scheduling Operations Agent (preview)**
 
 ### **Task 1: Turn on the Scheduling Operations Agent**
@@ -267,6 +269,7 @@
 
      ![](./media/image52.png)
 
+**Summary**: In this lab, you learned how to enable the Scheduling Operations Agent, configure resource properties, assign optimization methods for booking statuses, and set priority values for scheduling logic. You also created a work order and used the schedule board to generate AI-based schedule suggestions. You learned how the agent streamlines resource scheduling and improves scheduling accuracy in Dynamics 365 Field Service.
 
 
 
