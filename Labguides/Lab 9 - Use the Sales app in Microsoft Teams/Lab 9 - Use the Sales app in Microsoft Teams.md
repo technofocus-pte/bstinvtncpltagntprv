@@ -1,5 +1,7 @@
 # **Lab 9: Use the Sales app in Microsoft Teams and use the conversation intelligence dashboard (preview)**
 
+**Objective**: In this lab, you will learn how to set up and use the Sales app in Microsoft Teams, configure Teams app setup policies to enable Copilot for Sales, schedule and manage Teams meetings with integrated Sales insights, and generate AI-powered transcripts and recap data. You will also learn how to analyze seller conversations using the conversation intelligence Power BI dashboard and connect it to Dataverse for real organizational insights.
+
 ## **Exercise 1: Install and pin Microsoft Copilot for Sales in Teams**
 
 ### **Task 1: Create a custom Teams app setup policy**
@@ -306,3 +308,4 @@ the dashboard to your own data in Dataverse, follow these steps:
 
      ![](./media/image58.png)
 
+**Summary**: In this lab, you learned how to install and pin the Sales app in Teams, schedule meetings with integrated Sales features, and capture AI-generated recaps, transcripts, and sales insights directly inside Teams. You also downloaded the Copilot for Sales conversation intelligence dashboard, explored its KPIs and insights, and connected it to your Dataverse environment to visualize real conversation data. These capabilities demonstrate how Teams, Sales, and Copilot work together to enhance seller productivity and data-driven decision-making.
