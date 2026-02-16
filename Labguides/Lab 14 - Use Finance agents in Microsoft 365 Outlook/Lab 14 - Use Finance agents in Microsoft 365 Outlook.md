@@ -1,5 +1,7 @@
 # **Lab 14: Use Finance agents in Microsoft 365 Outlook**
 
+**Objective**: In this lab, you will learn how to activate the Finance app, use demo mode to generate AI-powered email summaries, view ERP-linked customer details, and add notes directly from Outlook. Finance agents integrate Outlook with ERP data to streamline financial review and communication workflows.
+
 ## **Exercise 1: Install Finance agents in Microsoft 365 Outlook from the Microsoft 365 admin center**
 
 You have alredy installed Finance agents in Microsoft 365 Outlook in the Lab 0 > Exercise 7.
@@ -89,4 +91,5 @@ You have alredy installed Finance agents in Microsoft 365 Outlook in the Lab 0 >
 18. You can save the note by selecting the customer that you want to
     associate the note with.
 
+**Summary**: In this lab, you learned how to deploy Finance agents from the Integrated Apps section of the Microsoft 365 admin center and make them available across your organization. You then used the Finance agent inside Outlook to generate email summaries, explore suggested replies, view customer and contact information synced from your ERP system, and create notes associated with a selected customer. 
 
