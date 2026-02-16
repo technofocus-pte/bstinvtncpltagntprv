@@ -1,8 +1,6 @@
 # **Lab 5: Create an AI-generated site, webpage using Copilot and add other components to pages**
 
-**Objective:** In this lab, you will learn how to create a site using
-Copilot. You will also learn how to generate a webpage, create a form,
-and add AI-generated text to the page.
+**Objective:** In this lab, you will learn how to use Copilot within Power Pages to rapidly create and customize a functional website. You will generate AI-driven site layouts, build new webpages, create interactive forms, and enhance content using AI-generated text. You will understand how Copilot accelerates web design, content creation, and component configuration.
 
 ## **Exercise 1: Generate a website with Copilot**
 
@@ -238,6 +236,7 @@ of Copilot, how Copilot generates the HTML for the page with relevant
 text copy and images from the description. Create a form and add
 AI-generated text to the page. You also learnt how Copilot generates
 text and creates a form based on the given description.
+
 
 
 
